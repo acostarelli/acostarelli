@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This portfolio is a W.I.P.
+
+My repositories of interest are pinned.
+
 <!--
 **acostarelli/acostarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
