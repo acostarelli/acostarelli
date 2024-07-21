@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-This portfolio is a W.I.P.
+My name is Anthony Costarelli. I am an undergraduate at Olin College of Engineering.
 
-My repositories of interest are pinned.
+My publications:
+- [GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents](https://arxiv.org/abs/2406.06613)
 
 <!--
 **acostarelli/acostarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
