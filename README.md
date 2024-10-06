@@ -3,6 +3,7 @@
 My name is Anthony Costarelli. I am an undergraduate at Olin College of Engineering.
 
 My publications:
+- [Meta-Models: An Architecture for Decoding LLM Behaviors Through Interpreted Embeddings and Natural Language](https://arxiv.org/abs/2410.02472)
 - [GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents](https://arxiv.org/abs/2406.06613)
 
 <!--
