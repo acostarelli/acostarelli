@@ -6,6 +6,8 @@ My name is Anthony Costarelli. I graduated from Olin College of Engineering with
 
 _A real-time internet card game entirely in Python._
 
+- Showcases asychronous code for handling a real-time game containing sequential events
+
 **[Joshuaclymer/GameBench](https://github.com/Joshuaclymer/GameBench)**
 
 _A strategic-reasoning benchmark for Large Language Models (LLMs) and LLM agents. Consists of competitive games, LLM agents, and data collection and processing code._
